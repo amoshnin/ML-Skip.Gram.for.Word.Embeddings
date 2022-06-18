@@ -1,0 +1,1 @@
+- URL: https://www.projectpro.io/project-use-case/skip-gram-model-word-embeddings-python
